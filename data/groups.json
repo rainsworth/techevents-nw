@@ -19,14 +19,45 @@
 	"website": "http://www.meetup.com/AWS-User-Group-North/",
 	"advertised": "Meetup, Twitter, LinkedIn etc"
 }, {
-	"name": "Craft CMS Manchester",
-	"description": "Come along for chats about Craft CMS and all things web. Whether you're using Craft already or thinking about getting into it, it'd be great to meet you.",
-	"organiser": "Club Studio",
-	"email": "hello@clubstudio.co.uk",
-	"where": "Rise Manchester, Deansgate",
-	"when": "First Thursday of every other month",
-	"twitter": "@clubstudioltd",
-	"website": "http://www.meetup.com/craftcmsmanchester/"
+	"name": "Blockchain Manchester",
+	"description": "All things Blockchain. Love from Manchester.",
+	"organiser": "Andy Gray & James Morgan",
+	"email": "hello@blockchainmanchester.couk",
+	"where": "Manchester",
+	"when": "Once a month",
+	"twitter": "@blockchain_manc",
+	"website": "https://www.blockchainmanchester.co.uk",
+	"advertised": "Twitter, Meetup.com, Medium, LinkedIn"
+}, {
+	"name": "MancDB - Manchester Data & BI",
+	"description": "This group is for Data Professionals in and around Manchester who are interested in learning more about Business Intelligence, Data and Visualisation. We hope to have speakers from different backgrounds sharing their knowledge on these subjects. ",
+	"organiser": "Nick Latocha",
+	"email": "Nick.latocha@gmail.com",
+	"where": "No.1, 1 Hardman St, Manchester M3 3EB",
+	"when": "2nd Tuesday of each Month",
+	"twitter": "@Manc_DB",
+	"website": "https://www.meetup.com/MancDB/",
+	"advertised": "Twitter, Meetup.com"
+}, {
+	"name": "codebar Manchester",
+	"description": "Our goal is to enable underrepresented people to learn programming in a safe and collaborative environment and expand their career opportunities. To achieve this we run free regular workshops, regular one-off events and try to create opportunities for our students making technology and coding more accessible.",
+	"organiser": "Anna Holland Smith, Raluca Puichilita, Sam Phillips",
+	"email": "manchester@codebar.io",
+	"where": "Various",
+	"when": "monthly",
+	"twitter": "@codebarManc",
+	"website": "https://codebar.io/manchester",
+	"advertised": "Twitter, codebar side"
+}, {
+	"name": "Code First: Girls Manchester",
+	"description": "Code First: Girls works with companies and with men and women directly, to help increase the number of women in tech",
+	"organiser": "Code First: Girls, ThoughtWorks & Sam Phillips",
+	"email": "info@codefirstgirls.org.uk",
+	"where": "ThoughtWorks, Fourth Floor, Federation House, 2 Federation St, M4 4BF",
+	"when": "Two 8 week courses a year: Autumn/Winter and Spring/Summer",
+	"twitter": "@CodeFirstGirls",
+	"website": "http://www.codefirstgirls.org.uk/",
+	"advertised": "Twitter, Facebook"
 }, {
 	"name": "CoderDojo",
 	"description": "Manchester CoderDojo is a volunteer-led community group for young people learning to code and make things.",
@@ -35,6 +66,15 @@
 	"when": "one Sunday a month",
 	"twitter": "@mcrcoderdojo",
 	"website": "http://mcrcoderdojo.org.uk/"
+}, {
+	"name": "Craft CMS Manchester",
+	"description": "Come along for chats about Craft CMS and all things web. Whether you're using Craft already or thinking about getting into it, it'd be great to meet you.",
+	"organiser": "Club Studio",
+	"email": "hello@clubstudio.co.uk",
+	"where": "Rise Manchester, Deansgate",
+	"when": "First Thursday of every other month",
+	"twitter": "@clubstudioltd",
+	"website": "http://www.meetup.com/craftcmsmanchester/"
 }, {
 	"name": "CurryBeer",
 	"description": "The traditional Currybeer events are held on the first Friday of each month, unless that clashes with a public holiday (e.g. New Year's Day). Alternative cuisines are usually held on the third Friday of the month, chosen from a variety of venues.",
@@ -121,6 +161,15 @@
 	"twitter": "@ElasticManc",
 	"website": "http://www.meetup.com/Manchester-Elastic-Fantastics/"
 }, {
+	"name": "Elm Manchester",
+	"description": "A monthly meet up for anyone interested in Elm. We follow a hack night format to help people get started.",
+	"organiser": "Michael Jones",
+	"email": "m.pricejones@gmail.com",
+	"where": "Varies",
+	"when": "Every Month",
+	"twitter": "@elm_manchester",
+	"website": "http://www.meetup.com/elm-manchester/"
+}, {
 	"name": "FLOSS UK",
 	"description": "FLOSS UK, the UK open source advocacy group",
 	"organiser": "Ian Norton",
@@ -188,6 +237,16 @@
 	"website": "http://hackernest.com",
 	"advertised": "via Meetup, twitter, linkedin, facebook, word of mouth"
 }, {
+	"name": "HER+Data MCR",
+	"description": "HER+Data MCR is a community for women who work with and love data - to support one another, share experiences and talk data!",
+	"organiser": "Rachael Ainsworth",
+	"email": "rainswor@gmail.com",
+	"where": "Manchester",
+	"when": "Monthly meetings, 2nd Thursday of the month.",
+	"twitter": "@herplusdatamcr",
+	"website": "https://www.meetup.com/HER-Data-MCR",
+	"advertised": "via Meetup, twitter, linkedin, facebook, word of mouth"
+}, {
 	"name": "Ladies that UX MCR",
 	"description": "Fancy meeting other women for a good old natter about UX and life in general? Then Ladies that UX is for you. Not got UX in your job title? No problem. If you’re inquisitive, enthusiastic and interested in making the world a better place for users, you’re one of us.",
 	"organiser": "Lizzie Dyson",
@@ -214,7 +273,7 @@
 	"email": "rick.moynihan@gmail.com",
 	"where": "MadLab",
 	"when": "3rd Monday",
-	"twitter": "#lambdalounge",
+	"twitter": "@lambdamcr",
 	"website": "http://www.lambdalounge.org.uk/",
 	"advertised": "Google group// MadLab website// Twitter "
 }, {
@@ -354,7 +413,8 @@
 	"twitter": "@mwug",
 	"website": "https://mwug.uk",
 	"advertised": "Twitter, Meetup.com, Google Group/mailing list"
-}, {
+},  
+ {
 	"name": "MancJS",
 	"description": "Meetup for Javascript developers. Talks and workshops.",
 	"organiser": "Martin Rue",
@@ -394,6 +454,16 @@
 	"twitter": "@micromanchester",
 	"website": "http://www.meetup.com/Microservices-Manchester/",
 	"advertised": "@micromanchester, group emails and via TechNW community"
+},{
+	"name": "Neo4j Manchester",
+	"description": "For people interested in graphs and Neo4j. Come and learn about the most popular graph database of today and why graphs are great to store your data and make sense of it!",
+	"organiser": "Mark Needham",
+	"email": "m.h.needham@gmail.com",
+	"where": "ThoughtWorks Manchester, 26th Floor City Tower, Piccadilly Plaza Manchester, M1 4BT, Manchester",
+	"when": "Quarterly",
+	"twitter": "@neo4j",
+	"website": "https://www.meetup.com/Neo4j-Manchester/",
+	"advertised": "Twitter, Meetup.com"
 }, {
 	"name": "NetMCR",
 	"description": "A meetup for people doing, or interested in, Network Engineering in Manchester & the NW",
@@ -523,15 +593,25 @@
 	"twitter": "@owaspmcr",
 	"website": "https://www.owasp.org/index.php/Manchester",
 	"advertised": "Website, twitter, mailing-list"
+}, {	
+	"name": "Patch:Manchester",
+	"description": "Patch:Manchester is a couple of hours, every month, where the open source community gets together and contributes to software.",
+	"organiser": "Daniel Shaw / Neil Lathwood",
+	"email": "daniel@thatdamnqa.com",
+	"where": "MadLab",
+	"when": "Last Monday of every month (changes sometimes happens for bank holidays/christmas)",
+	"twitter": "@patchmcr",
+	"website": "https://www.meetup.com/Manchester-Open-Source/",
+	"advertised": "Meetup, twitter"
 }, {
 	"name": "PHPNW Monthly Meeting",
 	"description": "for PHP developers",
 	"organiser": "Jeremy Coates",
-	"email": "jeremy@phpnw.org.uk ",
-	"where": "SpacePort X",
+	"email": "jeremy@phpnw.org.uk",
+	"where": "Upstairs @ 57 Thomas Street, Northern Quarter, Manchester, M4 1NA",
 	"when": "First Tuesday every month",
 	"twitter": "@phpnw",
-	"website": "http://phpnw.org.uk/ ",
+	"website": "http://phpnw.org.uk/",
 	"advertised": "Website, Twitter @phpnw, Facebook, LinkedIn"
 }, {
 	"name": "Preston Hackspace Meetup",
@@ -573,6 +653,16 @@
 	"website": "http://www.meetup.com/scala-developers/",
 	"advertised": "Meetup, Twitter, Talking to real people etc"
 }, {
+	"name": "ScouseFP",
+	"description": "Meet other local programmers interested in Functional Programming, Lisp, concurrent programming and anything else we can think of that might be related!",
+	"organiser": "Claudia Doppioslash, Kyle Grierson",
+	"email": "claudia.doppioslash@gmail.com",
+	"where": "DoES Liverpool, Unit 3, Floor 4, Gostins Building, 32-36 Hanover Street, L1 4LN, Liverpool",
+	"when": "Monthly",
+	"twitter": "@ScouseFP",
+	"website": "https://www.meetup.com/ScouseFP/",
+	"advertised": "Twitter, Meetup.com"
+}, {
 	"name": "SheSays",
 	"description": "helps women in digital & creative industries further their careers through meet-ups, mentoring and inspiring events.",
 	"organiser": "Gabi Iskandar\nVimla Appadoo & others",
@@ -581,6 +671,35 @@
 	"when": "Every other month - next event is 25th June 2015",
 	"twitter": "@shesaysmcr",
 	"website": "\n"
+}, {
+	"name": "Sociable Tech",
+	"description": "Sociable Tech is a friendly and inclusive group for anyone who works in any aspect of Digital, Computing or Internet related businesses, or is interested in working in these areas. The group meets monthly, and is free to attend, but require tickets.",
+	"organiser": "Jon Spriggs",
+	"email": "glossop@sociablete.ch",
+	"where": "The Craft Barn, Hadfield (near Glossop, between Manchester and Sheffield)",
+	"when": "3rd Tuesday of every month",
+	"twitter": "@sociabletech",
+	"website": "https://sociablete.ch",
+	"advertised": "Twitter, Facebook, Mailing lists"
+}, {
+	"name": "Startup Brew",
+	"description": "A place to meet and share challenges & learning experiences with other entrepreneurs. We meet for coffee on the last Wednesday of every month.",
+	"organiser": "Mike Lehan",
+	"email": "mike@m1ke.me",
+	"where": "Dept of Coffee and Social Affairs",
+	"when": "Last Wednesday of every month",
+	"twitter": "@startup_brew",
+	"website": "meetup.com/startupbrew"
+}, {
+	"name": "Street Support Network #EndHomelessnessMCR Raising Bee",
+	"description": "For tech folk to come along and help us with our mission to end homelessness in Manchester and beyond.",
+	"organiser": "Viv Slack",
+	"email": "viv@streetsupport.net",
+	"where": "Code Computerlove Ltd, Sevendale House, Dale St, Manchester, M1 1JB",
+	"when": "Monthly",
+	"twitter": "@streetsupportuk",
+	"website": "https://www.streetsupport.net/",
+	"advertised": "Twitter, Eventbrite.com"
 }, {
 	"name": "Manchester SQL Server/ Data Platform User Group",
 	"description": "A Microsoft Data Platform User Group with a focus on SQL Server and Azure",
@@ -652,6 +771,16 @@
 	"website": "http://wpug.uk",
 	"advertised": "Twitter, Meetup.com, word of mouth, Facebook"
 }, {
+ 	"name": "Manchester Xamarin User Group (McrXUG)",
+ 	"description": "A user group for anyone interested in the .Net Mobile Development Tool Xamarin",
+ 	"organiser": "Luce Carter",
+ 	"email": "luce@lucyscarter.co.uk",
+ 	"where": "Accelerate Places",
+ 	"when": "TBC - Hopefully quarterly",
+ 	"twitter": "@mcrxug",
+ 	"website": "https://www.meetup.com/Manchester-Xamarin-User-Group/",
+ 	"advertised": "Twitter and the Meetup.com"
+ }, {
 	"name": "XPManchester",
 	"description": "Xp Manchester is a language agnostic software development user group with the prime directive of making software developers work smarter.",
 	"organiser": "Mark Kirschstein",
@@ -662,24 +791,14 @@
 	"website": "http://xpmanchester.wordpress.com",
 	"advertised": "Badly"
 }, {
-	"name": "Manchester BI and Data Meet Up",
-	"description": "This is a group for people involved in any aspect of Business Intelligence/ Big Data. I am starting this group as I couldn't really see anything on the subject in the Manchester area. I am looking forward to exploring this vast and wide subject with local industry experts.",
-	"organiser": "Nick Latocha",
-	"email": "Nick.latocha@gmail.com",
-	"where": "Spaceport X, 24-26 Lever Street, Manchester, M1 1DZ, Manchester",
+	"name": "PyData MCR",
+	"description": "A meetup for Data Scientists or those interested in Data Science",
+	"organiser": "John Carney and Joseph Allen",
+	"email": "data.science.manchester@gmail.com",
+	"where": "Madlab",
 	"when": "Monthly",
-	"twitter": "@Mcr_BI_and_Data",
-	"website": "http://www.manchester-bi-and-data.co.uk/",
-	"advertised": "Twitter, Meetup.com"
-}, {
-	"name": "ScouseFP",
-	"description": "Meet other local programmers interested in Functional Programming, Lisp, concurrent programming and anything else we can think of that might be related!",
-	"organiser": "Claudia Doppioslash, Kyle Grierson",
-	"email": "claudia.doppioslash@gmail.com",
-	"where": "DoES Liverpool, Unit 3, Floor 4, Gostins Building, 32-36 Hanover Street, L1 4LN, Liverpool",
-	"when": "Monthly",
-	"twitter": "@ScouseFP",
-	"website": "https://www.meetup.com/ScouseFP/",
-	"advertised": "Twitter, Meetup.com"
+	"twitter": "@pydatamcr",
+	"website": "https://www.meetup.com/PyData-Manchester/",
+	"advertised": "Twitter, Reddit, LinkedIn"
 }
 ]

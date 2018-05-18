@@ -11,20 +11,6 @@ class App < Sinatra::Application
 		super(app)
 	end
 
-	register Sinatra::AssetPack
-	assets do
-		js :application, [
-			'js/*.js'
-		]
-
-		css :application, [
-			'css/*.css'
-		]
-
-		js_compression :jsmin
-		css_compression :sass
-	end
-
 	# 404 Error!
 	not_found do
 		status 404
@@ -63,6 +49,10 @@ class App < Sinatra::Application
 		json = File.read('data/groups.json')
 		events = JSON.parse(json)
 		erb :event_list, :layout => :layout, :locals => {events:events}
+	end
+
+	get '/letter' do
+		erb :letter, :layout => :none
 	end
 
 	get '/conferences' do
